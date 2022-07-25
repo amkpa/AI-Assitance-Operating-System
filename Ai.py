@@ -132,7 +132,7 @@ if __name__ == "__main__":
             webbrowser.open(f"{cm}")
 
         elif "send message" in query:
-            kit.sendwhatmsg("+918249424236", "pela",13,42)
+            kit.sendwhatmsg("+91123456789", "Hello Mr Amit",13,42)
 
 
         elif "play songs on youtube" in query:
